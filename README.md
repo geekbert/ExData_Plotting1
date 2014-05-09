@@ -1,3 +1,9 @@
+# this is the updated version of README 
+
+# ADDED all 8 files as requested per exercise
+
+
+
 ## Introduction
 
 This assignment uses data from
